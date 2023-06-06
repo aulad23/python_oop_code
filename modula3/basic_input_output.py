@@ -1,0 +1,10 @@
+#print('now i need money')
+#input()
+#input('Give me some money: ')
+#money = input('Give me some monney: ')
+#print ("here is your money",money)
+frist_money= input("aulad, dst kicu tk de: ")
+scound_money=input("rakib, kicu thka de:")
+print("money i got for aulad",frist_money,"and for rakib",scound_money)
+total= frist_money + scound_money
+print("tatal money",total)

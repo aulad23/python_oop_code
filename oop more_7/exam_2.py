@@ -1,0 +1,3 @@
+
+cat = Cat()
+cat.sound()  
